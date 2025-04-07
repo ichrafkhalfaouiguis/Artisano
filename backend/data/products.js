@@ -1,0 +1,52 @@
+const products = [
+  {
+    name: "Yulia's Artwork",
+    images: [{ url: '/images/1.jpg' }],
+    videos: [{ url: 'videos-1707402559237.mp4' }],  // Add the video here
+    description: 'Unique art piece for sale on RomisArtShop. Add this beautiful artwork to your collection.',
+    brand: 'RomisArts',
+    category: 'Arts',
+    price: 500,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 12,
+  },
+  {
+    name: 'Product 2',
+    images: [{ url: '/images/2.jpg' }],
+    videos: [{ url: 'videos-1707402559237.mp4' }],  
+    description: 'Exquisite art for sale on RomisArtShop. Enhance your space with this captivating piece.',
+    brand: 'RomisArts',
+    category: 'Ceramic',
+    price: 175,
+    countInStock: 7,
+    rating: 2,
+    numReviews: 5,
+  },
+  {
+    name: 'Product 3',
+    images: [{ url: '/images/3.jpg' }],
+    videos: [{ url: 'videos-1707402559237.mp4' }],  
+    description: 'Artwork by RomisArts available for purchase. Discover the beauty of this unique creation.',
+    brand: 'RomisArts',
+    category: 'Fomewear',
+    price: 200,
+    countInStock: 7,
+    rating: 7,
+    numReviews: 8,
+  },
+  {
+    name: 'Product 4',
+    images: [{ url: '/images/4.jpg' }],
+    videos: [{ url: 'videos-1707402559237.mp4' }], 
+    description: 'Limited edition art piece for sale on RomisArtShop. A must-have for art enthusiasts.',
+    brand: 'RomisArts',
+    category: 'Furniture',
+    price: 350,
+    countInStock: 0,
+    rating: 1,
+    numReviews: 15,
+  },
+];
+
+export default products;

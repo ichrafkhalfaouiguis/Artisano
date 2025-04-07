@@ -1,0 +1,7 @@
+﻿# RomisArtsShop
+NODE_ENV = development
+PORT = 5000
+MONGO_URI =
+JWT_SECRET= 
+PAGINATION_LIMIT =8
+PAYPAL_CLIENT_ID =
