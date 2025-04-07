@@ -21,7 +21,7 @@ export const sendVerificationEmail = async (email, activationCode) => {
         <p>We're thrilled to have you on board. You recently visited our website and entered your email.</p>
         <p>Please follow the given link to verify your email:</p>
   
-        <a href="https://romisartsshops.onrender.com/verify/${activationCode}">Verify Email</a>
+        <a href="https://artisano-urkx.onrender.com/verify/${activationCode}">Verify Email</a>
 
         <p>If you have any questions or need assistance, feel free to contact us. Thanks!</p>
       `,
