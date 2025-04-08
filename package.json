@@ -38,13 +38,5 @@
     "concurrently": "^8.2.2",
     "dotenv": "^16.4.7",
     "nodemon": "^3.0.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ichrafkhalfaouiguis/RomisArtsShop.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ichrafkhalfaouiguis/RomisArtsShop/issues"
-  },
-  "homepage": "https://github.com/ichrafkhalfaouiguis/RomisArtsShop#readme"
+  }
 }

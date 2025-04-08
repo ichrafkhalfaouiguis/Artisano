@@ -1,6 +1,6 @@
- export const BASE_URL =
-  process.env.NODE_ENV === ' development' ? 'http://localhost:5000' : '';
-  //export const BASE_URL =process.env.NODE_ENV === ' production' ? 'https://artisano-urkx.onrender.com' : '';
+
+  //export const BASE_URL = process.env.NODE_ENV === ' development' ? 'http://localhost:5000' : '';
+  export const BASE_URL =process.env.NODE_ENV === ' production' ? 'https://artisano-urkx.onrender.com' : '';
   
   
 //export const BASE_URL = ''; // If using proxy

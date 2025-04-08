@@ -92,7 +92,7 @@ const AboutListScreen = () => {
                 className="btn-sm"
                 onClick={() => handleDelete('images', index, image.url)}
               >
-                <FaTrash style={{ color: 'white' }} />
+                <FaTrash  />
               </Button>
             </td>
           </tr>
@@ -132,7 +132,7 @@ const AboutListScreen = () => {
                 className="btn-sm"
                 onClick={() => handleDelete('videos', index, video.url)}
               >
-                <FaTrash style={{ color: 'white' }} />
+                <FaTrash  />
               </Button>
             </td>
           </tr>
