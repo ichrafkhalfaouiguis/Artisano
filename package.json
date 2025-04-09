@@ -16,10 +16,9 @@
   "author": "Ichraf khalfaoui",
   "license": "MIT",
   "devDependencies": {
-    "concurrently": "^8.2.2",
-    "dotenv": "^16.4.7",
-    "nodemon": "^3.0.2"
-  },
+  "dotenv": "^16.4.7"
+}
+,
   "dependencies": {
     "dotenv": "^16.4.7",
     "axios": "^1.6.4",
